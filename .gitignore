@@ -1,0 +1,25 @@
+# Python-специфичные файлы
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+*.log
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# IDE/Редактор
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Библиотеки, установленные через pip
+env/
+venv/
+*.egg-info/
+build/
+dist/
+*.egg
