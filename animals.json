@@ -1,0 +1,174 @@
+[
+    {
+        "name": "Бадди",
+        "birth_date": "2020-01-15",
+        "type": "Dog",
+        "commands": [
+            {
+                "command_name": "Сидеть",
+                "description": "Садится по команде"
+            },
+            {
+                "command_name": "Голос",
+                "description": "Лает по команде"
+            },
+            {
+                "command_name": "Ко мне",
+                "description": "Подходит к хозяину"
+            }
+        ]
+    },
+    {
+        "name": "Мурка",
+        "birth_date": "2019-03-22",
+        "type": "Cat",
+        "commands": [
+            {
+                "command_name": "Ко мне",
+                "description": "Подходит к хозяину"
+            },
+            {
+                "command_name": "Лежать",
+                "description": "Ложится по команде"
+            }
+        ]
+    },
+    {
+        "name": "Гром",
+        "birth_date": "2018-06-10",
+        "type": "Horse",
+        "commands": [
+            {
+                "command_name": "Вперёд",
+                "description": "Начинает движение вперёд"
+            },
+            {
+                "command_name": "Стоп",
+                "description": "Останавливается на месте"
+            }
+        ]
+    },
+    {
+        "name": "Верби",
+        "birth_date": "2017-11-04",
+        "type": "Camel",
+        "commands": [
+            {
+                "command_name": "Сесть",
+                "description": "Присаживается, чтобы можно было сесть верхом"
+            },
+            {
+                "command_name": "Подняться",
+                "description": "Встаёт на ноги"
+            }
+        ]
+    },
+    {
+        "name": "Осик",
+        "birth_date": "2021-02-14",
+        "type": "Donkey",
+        "commands": [
+            {
+                "command_name": "Иди",
+                "description": "Начинает двигаться вперёд"
+            },
+            {
+                "command_name": "Принеси",
+                "description": "Берёт и приносит груз"
+            }
+        ]
+    },
+    {
+        "name": "Шустрик",
+        "birth_date": "2022-07-01",
+        "type": "Hamster",
+        "commands": [
+            {
+                "command_name": "Круг",
+                "description": "Бегает кругами"
+            },
+            {
+                "command_name": "Домой",
+                "description": "Возвращается в домик"
+            }
+        ]
+    },
+    {
+        "name": "Рекс",
+        "birth_date": "2020-05-20",
+        "type": "Dog",
+        "commands": [
+            {
+                "command_name": "Фас",
+                "description": "Атакует по команде"
+            },
+            {
+                "command_name": "Рядом",
+                "description": "Идёт рядом с хозяином"
+            }
+        ]
+    },
+    {
+        "name": "Снежок",
+        "birth_date": "2018-12-25",
+        "type": "Cat",
+        "commands": [
+            {
+                "command_name": "Место",
+                "description": "Садится на определённое место"
+            }
+        ]
+    },
+    {
+        "name": "Тайфун",
+        "birth_date": "2016-09-03",
+        "type": "Horse",
+        "commands": [
+            {
+                "command_name": "Галоп",
+                "description": "Переходит на галоп"
+            },
+            {
+                "command_name": "Шагом",
+                "description": "Переходит на шаг"
+            }
+        ]
+    },
+    {
+        "name": "Барсик",
+        "birth_date": "2020-04-18",
+        "type": "Cat",
+        "commands": [
+            {
+                "command_name": "Прыгать",
+                "description": "Запрыгивает на указанное место"
+            }
+        ]
+    },
+    {
+        "name": "Кузя",
+        "birth_date": "2019-08-12",
+        "type": "Donkey",
+        "commands": [
+            {
+                "command_name": "Назад",
+                "description": "Двигается назад"
+            },
+            {
+                "command_name": "Влево",
+                "description": "Делает шаг влево"
+            }
+        ]
+    },
+    {
+        "name": "Пушистик",
+        "birth_date": "2021-03-30",
+        "type": "Hamster",
+        "commands": [
+            {
+                "command_name": "Кушать",
+                "description": "Бежит к миске с едой"
+            }
+        ]
+    }
+]
