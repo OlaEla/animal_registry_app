@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "Бадди",
         "birth_date": "2020-01-15",
         "type": "Dog",
@@ -15,10 +16,15 @@
             {
                 "command_name": "Ко мне",
                 "description": "Подходит к хозяину"
+            },
+            {
+                "command_name": "Фас",
+                "description": "Нападает по команде"
             }
         ]
     },
     {
+        "id": 2,
         "name": "Мурка",
         "birth_date": "2019-03-22",
         "type": "Cat",
@@ -34,6 +40,7 @@
         ]
     },
     {
+        "id": 3,
         "name": "Гром",
         "birth_date": "2018-06-10",
         "type": "Horse",
@@ -49,6 +56,7 @@
         ]
     },
     {
+        "id": 4,
         "name": "Верби",
         "birth_date": "2017-11-04",
         "type": "Camel",
@@ -64,6 +72,7 @@
         ]
     },
     {
+        "id": 5,
         "name": "Осик",
         "birth_date": "2021-02-14",
         "type": "Donkey",
@@ -79,6 +88,7 @@
         ]
     },
     {
+        "id": 6,
         "name": "Шустрик",
         "birth_date": "2022-07-01",
         "type": "Hamster",
@@ -94,6 +104,7 @@
         ]
     },
     {
+        "id": 7,
         "name": "Рекс",
         "birth_date": "2020-05-20",
         "type": "Dog",
@@ -109,6 +120,7 @@
         ]
     },
     {
+        "id": 8,
         "name": "Снежок",
         "birth_date": "2018-12-25",
         "type": "Cat",
@@ -120,6 +132,7 @@
         ]
     },
     {
+        "id": 9,
         "name": "Тайфун",
         "birth_date": "2016-09-03",
         "type": "Horse",
@@ -135,6 +148,7 @@
         ]
     },
     {
+        "id": 10,
         "name": "Барсик",
         "birth_date": "2020-04-18",
         "type": "Cat",
@@ -146,6 +160,7 @@
         ]
     },
     {
+        "id": 11,
         "name": "Кузя",
         "birth_date": "2019-08-12",
         "type": "Donkey",
@@ -161,8 +176,28 @@
         ]
     },
     {
+        "id": 12,
         "name": "Пушистик",
         "birth_date": "2021-03-30",
+        "type": "Hamster",
+        "commands": [
+            {
+                "command_name": "Кушать",
+                "description": "Бежит к миске с едой"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Спринт",
+        "birth_date": "2019-03-22",
+        "type": "Horse",
+        "commands": []
+    },
+    {
+        "id": 14,
+        "name": "Бобик",
+        "birth_date": "2018-06-10",
         "type": "Hamster",
         "commands": [
             {
